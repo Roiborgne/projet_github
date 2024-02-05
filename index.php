@@ -12,6 +12,7 @@
 <div>
     <div class="container bg-primary">
         <h1>test</h1>
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquid dignissimos dolorum excepturi laboriosam laborum molestias nisi, praesentium qui rerum similique. Doloribus eum in magnam mollitia praesentium provident recusandae rem suscipit!</p>
     </div>
 </div>
 </body>
